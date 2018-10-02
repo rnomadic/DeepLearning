@@ -1,2 +1,2 @@
 # DeepLearning
-![](images/DeepLearning.jpeg)
+<img src="images/DeepLearning.jpeg" width=600 height=600>
