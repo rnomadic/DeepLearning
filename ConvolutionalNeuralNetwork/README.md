@@ -21,4 +21,5 @@ conda env create -f dog-mac.yml
 5. Donwload the [ResNet 50 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResNet50Data.npz). Place it in the repo, at location *bottleneck_features*.
 
 
-
+### Saved Model
+I have uploaded some of the trained model under folder *saved_model*. This can be loaded and tested with different set of data.
