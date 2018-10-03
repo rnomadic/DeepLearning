@@ -12,13 +12,13 @@ I decided to use CNN because I thought that using a series of convolutional laye
 1. Setup your environment (for MAC only)
 conda env create -f dog-mac.yml 
 
-2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). Unzip the folder and place it in the repo, at location dogImages.
+2. Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip). Unzip the folder and place it in the repo, at location *dogImages*.
 
-3. Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip). Unzip the folder and place it in the repo, at location lfw. 
+3. Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip). Unzip the folder and place it in the repo, at location *lfw*. 
 
-4. Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset. Place it in the repo, at location bottleneck_features.
+4. Donwload the [VGG-16 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogVGG16Data.npz) for the dog dataset. Place it in the repo, at location *bottleneck_features*.
 
-5. Donwload the [ResNet 50 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResNet50Data.npz). Place it in the repo, at location bottleneck_features.
+5. Donwload the [ResNet 50 bottleneck features](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogResNet50Data.npz). Place it in the repo, at location *bottleneck_features*.
 
 
 
