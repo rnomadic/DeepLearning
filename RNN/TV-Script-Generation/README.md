@@ -1,4 +1,4 @@
-## RNN
+## Predicting Text
 
 <img src="RNN-LSTM.jpg">
 
